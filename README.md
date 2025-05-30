@@ -92,7 +92,7 @@ This script will execute our Mixup-based approach on supported Transformer archi
 
 ## Citation and Acknowledgment
 
-We build on the official [ForecastPFN](https://github.com/automl/ForecastPFN) codebase for baseline evaluation and thank the authors for open-sourcing their work.
+We build on the official [ForecastPFN](https://github.com/abacusai/ForecastPFN) codebase for baseline evaluation and thank the authors for open-sourcing their work.
 
 If you use this repository, please consider citing both the original ForecastPFN paper and our method.
 
