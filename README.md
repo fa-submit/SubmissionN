@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ### 2. Prepare Datasets
 
-Extract the provided `academic_data.zip` file into the root directory:
+Download the data used from [here](https://drive.google.com/file/d/1-QujU6oKJ6cyFdSQ8uRA8PMdOdVaZBVL/view). Make sure to put it in the folder .Extract the provided `academic_data.zip` file into the root directory:
 
 ```bash
 unzip academic_data.zip
